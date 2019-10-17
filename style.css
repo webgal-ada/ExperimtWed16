@@ -7,9 +7,13 @@ h2 {
   font-size: 8px;
   color: green;
 }
-tr {
+table {
   background-color: red;
 border: 2px solid #000;
-width: 300px;
-height: 100px;
+width: 500px;
+box-shadow: 10px 5px 5px black;
+}
+td{
+  border: 1px dotted aqua;
+  color: white;
 }
